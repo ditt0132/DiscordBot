@@ -1,0 +1,6 @@
+{
+    "schema": {
+        "user.id: number(snowflake)": "number(money)"
+    },
+    "917369499597033502": 1000
+}
